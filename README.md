@@ -1,4 +1,4 @@
 Debugging-with-DDT
 ==================
 
-Debugging course
+Debugging course developed by the Pawsey Supercomputing Centre.
