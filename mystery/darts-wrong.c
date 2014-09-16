@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <omp.h>
 #include "lcgenerator.h"
 #include <mpi.h>

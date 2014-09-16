@@ -1,4 +1,5 @@
 #include "lcgenerator.h"
+#include <stdio.h>
 #include <mpi.h>
 
 // This code hangs.
